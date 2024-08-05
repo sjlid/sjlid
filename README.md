@@ -1,4 +1,4 @@
-Passionate Java Developer.
+Passionate Java Developer. 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sjlid&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sjlid&theme=github)
