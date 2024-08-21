@@ -7,3 +7,4 @@ Passionate Java Developer.
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sjlid&theme=github)
 
 ![snake gif](https://github.com/sjlid/sjlid/blob/output/github-contribution-grid-snake.svg)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/etoyaivan)](https://leetcode.com/etoyaivan)
